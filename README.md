@@ -1,1 +1,3 @@
 # monitor-custo-vida-df
+
+O objetivo central deste projeto é desenvolver um monitor de custo de vida para o Distrito Federal, estruturado a partir da integração de dados de inflação oficial (IPCA/IBGE) com preços de mercado coletados localmente. Através de um data app funcional, pretendo analisar a variação real de itens da cesta básica e combustíveis em diferentes Regiões Administrativas, identificando descolamentos entre a inflação oficial e a realidade de consumo da população. A iniciativa busca não apenas consolidar minha expertise em análise de séries temporais e web scraping, mas também criar uma ferramenta de suporte à decisão financeira que evidencie o impacto econômico regional no cotidiano dos brasilienses.
